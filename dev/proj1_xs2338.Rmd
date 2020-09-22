@@ -1,0 +1,21 @@
+---
+title: "Project 1"
+author: "Xiaoli Sun(xs2338)"
+date: "9/20/2020"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Load the data
+```{r}
+load(file="../output/data_use.RData")
+```
+
+### Problem 1 : Does gender affect the vote in election?
+```{r}
+anes_vote_gender_vote = 
+```
+
